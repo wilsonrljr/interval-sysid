@@ -21,16 +21,19 @@ Please send suggestions for improvement of the code to Wilson Rocha at this emai
 
 References:
 -----------
-> @InProceedings{PMJ+2017,
-author        = {Peixoto, M{\'{a}}rcia L. C. and Matos, Marco T. R. and J{\'{u}}nior, Wilson R. Lacerda and Martins, Samir A. M. and Nepomuceno, Erivelton G.},
-title         = {{Identification of Dynamic Systems with Interval Arithmetic}},
-booktitle     = {XIII Simp{\'{o}}sio Brasileiro de Automa{\c{c}}{\~{a}}o Inteligente},
-year          = {2017},
-pages         = {1--6},
-address       = {Porto Alegre},
-abstract      = {This paper aims to identify three electrical systems: a series RLC circuit, a motor/generator coupled system, and the Duffing-Ueda oscillator. In order to obtain the system's models was used the error reduction ratio and the Akaike information criterion. Our approach to handle the numerical errors was the interval arithmetic by means of the resolution of the least squares estimation. The routines was implemented in Intlab, a Matlab toolbox devoted to arithmetic interval. Finally, the interval RMSE was calculated to verify the quality of the obtained models. The applied methodology was satisfactory, since the obtained intervals encompass the system's data and allow to demonstrate how the numerical errors affect the answers.},
+```markdown
+@InProceedings{PMJ+2017,
+author  = {Peixoto, M{\'{a}}rcia L. C. and Matos, Marco T. R. and J{\'{u}}nior, Wilson R. Lacerda and Martins, Samir A. M. and Nepomuceno, Erivelton G.},
+title  = {{Identification of Dynamic Systems with Interval Arithmetic}},
+booktitle = {XIII Simp{\'{o}}sio Brasileiro de Automa{\c{c}}{\~{a}}o Inteligente},
+year  = {2017},
+pages = {1--6},
+address = {Porto Alegre},
+abstract = {This paper aims to identify three electrical systems: a series RLC circuit, a motor/generator coupled system, and the Duffing-Ueda oscillator. In order to obtain the system's models was used the error reduction ratio and the Akaike information criterion. Our approach to handle the numerical errors was the interval arithmetic by means of the resolution of the least squares estimation. The routines was implemented in Intlab, a Matlab toolbox devoted to arithmetic interval. Finally, the interval RMSE was calculated to verify the quality of the obtained models. The applied methodology was satisfactory, since the obtained intervals encompass the system's data and allow to demonstrate how the numerical errors affect the answers.},
 archiveprefix = {arXiv},
- arxivid       = {1708.03214},
-eprint        = {1708.03214},
-file          = {:D$backslash$:/User/Google Drive/mendeley/pdfs/Peixoto et al. - 2017 - Identification of Dynamic Systems with Interval Arithmetic.pdf},
+ arxivid = {1708.03214},
+eprint = {1708.03214},
+file = {:D$backslash$:/User/Google Drive/mendeley/pdfs/Peixoto et al. - 2017 - Identification of Dynamic Systems with Interval Arithmetic.pdf},
 }
+
+```
