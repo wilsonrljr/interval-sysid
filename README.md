@@ -18,6 +18,7 @@ Authors: Márcia Lucian da Costa Peixoto, Marco Túlio R. Matos, Wilson Rocha La
 Website: http://www.ufsj.edu.br/gcom
 
 Please send suggestions for improvement of the code to Wilson Rocha at this email address: wilsonrljr@outlook.com
+
 References:
 -----------
 @InProceedings{PMJ+2017,
